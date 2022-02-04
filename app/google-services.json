@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524823538628",
+    "project_id": "socialmediaapp-5c98c",
+    "storage_bucket": "socialmediaapp-5c98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524823538628:android:50b81db0846a1d4f7b5291",
+        "android_client_info": {
+          "package_name": "com.hasanali.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524823538628-9h8mn3ode11gt1or1ia77m9d777d9e3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1hsbh4wvjizZTAiE-oQfwhVu9JLNdI4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524823538628-9h8mn3ode11gt1or1ia77m9d777d9e3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
